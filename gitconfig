@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = ricardo.moitas04@gmail.com
+	name = ricardo moitas
